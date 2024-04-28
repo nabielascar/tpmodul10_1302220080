@@ -1,0 +1,7 @@
+C:\Docs\Konstruksi Perangkat Lunak\tpmodul10_1302220080\tpmodul10_1302220080\obj\Debug\net8.0\tpmodul10_1302220080.csproj.AssemblyReference.cache
+C:\Docs\Konstruksi Perangkat Lunak\tpmodul10_1302220080\tpmodul10_1302220080\obj\Debug\net8.0\tpmodul10_1302220080.GeneratedMSBuildEditorConfig.editorconfig
+C:\Docs\Konstruksi Perangkat Lunak\tpmodul10_1302220080\tpmodul10_1302220080\obj\Debug\net8.0\tpmodul10_1302220080.AssemblyInfoInputs.cache
+C:\Docs\Konstruksi Perangkat Lunak\tpmodul10_1302220080\tpmodul10_1302220080\obj\Debug\net8.0\tpmodul10_1302220080.AssemblyInfo.cs
+C:\Docs\Konstruksi Perangkat Lunak\tpmodul10_1302220080\tpmodul10_1302220080\obj\Debug\net8.0\tpmodul10_1302220080.csproj.CoreCompileInputs.cache
+C:\Docs\Konstruksi Perangkat Lunak\tpmodul10_1302220080\tpmodul10_1302220080\obj\Debug\net8.0\tpmodul10_1302220080.MvcApplicationPartsAssemblyInfo.cs
+C:\Docs\Konstruksi Perangkat Lunak\tpmodul10_1302220080\tpmodul10_1302220080\obj\Debug\net8.0\tpmodul10_1302220080.MvcApplicationPartsAssemblyInfo.cache

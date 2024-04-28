@@ -7,6 +7,14 @@
       "RelativeMoniker": "D:0:0:{7F637F1D-0D13-496D-8827-BAF05E0C3FF0}|tpmodul10_1302220080\\tpmodul10_1302220080.csproj|solutionrelative:tpmodul10_1302220080\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{7F637F1D-0D13-496D-8827-BAF05E0C3FF0}|tpmodul10_1302220080\\tpmodul10_1302220080.csproj|c:\\docs\\konstruksi perangkat lunak\\tpmodul10_1302220080\\tpmodul10_1302220080\\mahasiswadb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F637F1D-0D13-496D-8827-BAF05E0C3FF0}|tpmodul10_1302220080\\tpmodul10_1302220080.csproj|solutionrelative:tpmodul10_1302220080\\mahasiswadb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F637F1D-0D13-496D-8827-BAF05E0C3FF0}|tpmodul10_1302220080\\tpmodul10_1302220080.csproj|c:\\docs\\konstruksi perangkat lunak\\tpmodul10_1302220080\\tpmodul10_1302220080\\mahasiswa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F637F1D-0D13-496D-8827-BAF05E0C3FF0}|tpmodul10_1302220080\\tpmodul10_1302220080.csproj|solutionrelative:tpmodul10_1302220080\\mahasiswa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7F637F1D-0D13-496D-8827-BAF05E0C3FF0}|tpmodul10_1302220080\\tpmodul10_1302220080.csproj|c:\\docs\\konstruksi perangkat lunak\\tpmodul10_1302220080\\tpmodul10_1302220080\\tpmodul10_1302220080.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
       "RelativeMoniker": "D:0:0:{7F637F1D-0D13-496D-8827-BAF05E0C3FF0}|tpmodul10_1302220080\\tpmodul10_1302220080.csproj|solutionrelative:tpmodul10_1302220080\\tpmodul10_1302220080.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
     }
@@ -18,8 +26,38 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MahasiswaDb.cs",
+              "DocumentMoniker": "C:\\Docs\\Konstruksi Perangkat Lunak\\tpmodul10_1302220080\\tpmodul10_1302220080\\MahasiswaDb.cs",
+              "RelativeDocumentMoniker": "tpmodul10_1302220080\\MahasiswaDb.cs",
+              "ToolTip": "C:\\Docs\\Konstruksi Perangkat Lunak\\tpmodul10_1302220080\\tpmodul10_1302220080\\MahasiswaDb.cs",
+              "RelativeToolTip": "tpmodul10_1302220080\\MahasiswaDb.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T22:33:10.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Mahasiswa.cs",
+              "DocumentMoniker": "C:\\Docs\\Konstruksi Perangkat Lunak\\tpmodul10_1302220080\\tpmodul10_1302220080\\Mahasiswa.cs",
+              "RelativeDocumentMoniker": "tpmodul10_1302220080\\Mahasiswa.cs",
+              "ToolTip": "C:\\Docs\\Konstruksi Perangkat Lunak\\tpmodul10_1302220080\\tpmodul10_1302220080\\Mahasiswa.cs",
+              "RelativeToolTip": "tpmodul10_1302220080\\Mahasiswa.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T22:32:48.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -28,14 +66,14 @@
               "RelativeDocumentMoniker": "tpmodul10_1302220080\\Program.cs",
               "ToolTip": "C:\\Docs\\Konstruksi Perangkat Lunak\\tpmodul10_1302220080\\tpmodul10_1302220080\\Program.cs",
               "RelativeToolTip": "tpmodul10_1302220080\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAzAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-28T22:27:20.433Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "tpmodul10_1302220080.http",
               "DocumentMoniker": "C:\\Docs\\Konstruksi Perangkat Lunak\\tpmodul10_1302220080\\tpmodul10_1302220080\\tpmodul10_1302220080.http",
               "RelativeDocumentMoniker": "tpmodul10_1302220080\\tpmodul10_1302220080.http",
@@ -43,12 +81,7 @@
               "RelativeToolTip": "tpmodul10_1302220080\\tpmodul10_1302220080.http",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2024-04-28T22:25:13.715Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "WhenOpened": "2024-04-28T22:25:13.715Z"
             }
           ]
         }

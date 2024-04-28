@@ -5,3 +5,4 @@ C:\Docs\Konstruksi Perangkat Lunak\tpmodul10_1302220080\tpmodul10_1302220080\obj
 C:\Docs\Konstruksi Perangkat Lunak\tpmodul10_1302220080\tpmodul10_1302220080\obj\Debug\net8.0\tpmodul10_1302220080.csproj.CoreCompileInputs.cache
 C:\Docs\Konstruksi Perangkat Lunak\tpmodul10_1302220080\tpmodul10_1302220080\obj\Debug\net8.0\tpmodul10_1302220080.MvcApplicationPartsAssemblyInfo.cs
 C:\Docs\Konstruksi Perangkat Lunak\tpmodul10_1302220080\tpmodul10_1302220080\obj\Debug\net8.0\tpmodul10_1302220080.MvcApplicationPartsAssemblyInfo.cache
+C:\Docs\Konstruksi Perangkat Lunak\tpmodul10_1302220080\tpmodul10_1302220080\obj\Debug\net8.0\tpmodul10_1302220080.sourcelink.json
